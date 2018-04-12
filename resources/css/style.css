@@ -100,3 +100,27 @@ header p {
 .landscape {
   max-width: 5rem;
 }
+
+.infosection {
+  width: 960px;
+  display: flex;
+  padding-bottom: 5rem;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+}
+
+.spacer {
+  width: 5%
+}
+
+.infotitle {
+  background-color: cadetblue;
+  color: white;
+  font-weight: bold;
+  padding: 0.5rem 1.25rem;
+  margin-bottom: 1rem;
+}
